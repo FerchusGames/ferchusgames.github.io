@@ -17,7 +17,7 @@ headline = "Powering the Future of Gaming with Intelligent AI"
 bio = "Passionate game development student specializing in AI tools that elevate gameplay and push the boundaries of interactive entertainment."
 links = [
     { link = "https://ferchus.itch.io"},
-    { discord = "https://discordapp.com/users/217089078636576768"},
+    # { discord = "https://discordapp.com/users/217089078636576768"},
     { github = "https://github.com/FerchusGames"}
 ]
 
