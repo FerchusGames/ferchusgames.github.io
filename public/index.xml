@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ferchus</title>
-    <link>https://ferchusgames.itch.io/</link>
+    <link>https://www.ferchus.com/</link>
     <description>Recent content on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2023 15:39:02 -0600</lastBuildDate><atom:link href="https://ferchusgames.itch.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 15:39:02 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://ferchusgames.itch.io/posts/first-post/</link>
+      <title>Welcome to my site!</title>
+      <link>https://www.ferchus.com/posts/welcome/</link>
       <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
       
-      <guid>https://ferchusgames.itch.io/posts/first-post/</guid>
-      <description>Introduction My name is Ferchus, and I&amp;rsquo;m an game AI developer.
-To check my game projects, go to my itch page!</description>
+      <guid>https://www.ferchus.com/posts/welcome/</guid>
+      <description>Hello World!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/posts/welcome/featured.png" />
     </item>
     
   </channel>
