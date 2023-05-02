@@ -21,6 +21,7 @@ Hi, I'm Ferchus, an enthusiastic game development student, driven by a deep pass
 
 
 I created this site using [Hugo](https://gohugo.io/) with the [Blowfish](https://blowfish.page/) theme. If you want to see its source code you can check the GitHub repo:
+
 {{< github repo="FerchusGames/ferchus.com" >}}
 
 {{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
