@@ -16,6 +16,18 @@
   pageRef = "posts"
   weight = 10
 
+[[main]]
+    identifier = "itch.io"
+    pre = "link"
+    url = "https://ferchus.itch.io"
+    weight = 25
+
+[[main]]
+    identifier = "github"
+    pre = "github"
+    url = "https://github.com/FerchusGames"
+    weight = 30
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
