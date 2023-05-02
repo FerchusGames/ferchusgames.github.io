@@ -13,7 +13,7 @@
   
     
       <url>
-            <loc>https://www.ferchus.com/posts/</loc>
+            <loc>https://www.ferchus.com/posts/hello-world/</loc>
             <lastmod>2023-05-01T15:39:02-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -22,11 +22,13 @@
   
     
       <url>
-            <loc>https://www.ferchus.com/posts/welcome/</loc>
+            <loc>https://www.ferchus.com/posts/</loc>
             <lastmod>2023-05-01T15:39:02-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
     
   
     

@@ -5,6 +5,16 @@
     <link>https://www.ferchus.com/tags/</link>
     <description>Recent content in Tags on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.ferchus.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 15:39:02 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website</title>
+      <link>https://www.ferchus.com/tags/website/</link>
+      <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
