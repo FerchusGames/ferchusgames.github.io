@@ -6,15 +6,35 @@
     <description>Recent content on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 May 2023 15:39:02 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 May 2023 13:06:27 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclaimer</title>
+      <link>https://www.ferchus.com/extra/disclaimer/</link>
+      <pubDate>Sat, 06 May 2023 13:06:27 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/extra/disclaimer/</guid>
+      <description>Some of the posts on this website are written with the help of OpenAI tools.</description>
+      
+    </item>
+    
+    <item>
+      <title>Symbolic AI: Why Games Still Need It</title>
+      <link>https://www.ferchus.com/post/symbolic-ai-why-games-still-need-it/</link>
+      <pubDate>Sat, 06 May 2023 11:17:13 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/post/symbolic-ai-why-games-still-need-it/</guid>
+      <description>What is Symbolic AI?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/post/symbolic-ai-why-games-still-need-it/featured.png" />
+    </item>
+    
     <item>
       <title>Hello World!</title>
-      <link>https://www.ferchus.com/posts/hello-world/</link>
+      <link>https://www.ferchus.com/post/hello-world/</link>
       <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
       
-      <guid>https://www.ferchus.com/posts/hello-world/</guid>
+      <guid>https://www.ferchus.com/post/hello-world/</guid>
       <description>Thank you for making that phrase for me, ChatGPT.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/posts/hello-world/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/post/hello-world/featured.png" />
     </item>
     
   </channel>
