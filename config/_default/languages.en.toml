@@ -13,7 +13,7 @@ description = "Ferchus' official website"
 [author]
 name = "Ferchus"
 image = "img/author.png"
-headline = "Bringing Games to Life with AI"
+headline = "Bringing Games to Life"
 bio = "Passionate game development student specializing in AI tools that elevate gameplay and push the boundaries of interactive entertainment."
 links = [
     { itchio = "https://ferchus.itch.io"},

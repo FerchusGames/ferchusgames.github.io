@@ -9,12 +9,32 @@
     
       <url>
             <loc>https://www.ferchus.com/</loc>
-            <lastmod>2023-05-14T22:03:45-06:00</lastmod>
+            <lastmod>2023-05-21T18:48:49-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/post/</loc>
+            <lastmod>2023-05-21T18:48:49-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/post/the-perception-window/</loc>
+            <lastmod>2023-05-21T18:48:49-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     
@@ -24,17 +44,6 @@
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
-    
-  
-    
-      <url>
-            <loc>https://www.ferchus.com/post/</loc>
-            <lastmod>2023-05-14T22:03:45-06:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
     
   
     
