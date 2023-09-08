@@ -8,7 +8,7 @@ rtl = false
 title = "Ferchus"
 logo = "img/logo.png"
 description = "Ferchus' official website"
-tags: ["Ferchus", "FerchusGames", "Amerike"]
+tags = ["Ferchus", "FerchusGames", "Amerike"]
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
