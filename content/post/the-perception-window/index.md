@@ -2,7 +2,7 @@
 title: "The Perception Window"
 date: 2023-05-21T18:48:49-06:00
 draft: false
-tags: ["AI", "Design", "Game"]
+tags: ["AI", "Design", "Game", "Ferchus", "FerchusGames", "Amerike"]
 ---
 
 Creating realistic and engaging characters in video games poses a significant challenge due to the varied ways players interact with them. Each player has their own playstyle, whether it involves sneaking up on enemies or engaging in instant combat. Additionally, some players may have brief interactions with certain characters, while others may spend more time delving into their AI intricacies. From the perspective of AI programmers and designers, they meticulously craft every detail of the characters and their environments. However, for players, these elements only come to life when they encounter them. A diligently planned routine for an enemy's response to player engagement becomes irrelevant if the enemy is defeated with a headshot moments later.

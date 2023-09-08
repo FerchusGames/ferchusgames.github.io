@@ -2,7 +2,7 @@
 title: "It's Not About Complexity, It's About Interaction"
 date: 2023-05-14T22:03:45-06:00
 draft: false
-tags: ["AI", "Design", "Game"]
+tags: ["AI", "Design", "Game", "Ferchus", "FerchusGames", "Amerike"]
 ---
 
 ## Players Don't Want Intelligent AI
