@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ferchus</title>
+    <link>https://www.ferchus.com/tags/ferchus/</link>
+    <description>Recent content on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 15:39:02 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/ferchus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://www.ferchus.com/post/hello-world/</link>
+      <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/post/hello-world/</guid>
+      <description>(Website of the Year)Hi, I&amp;rsquo;m Ferchus, an enthusiastic game development student, driven by a deep passion for crafting immersive gaming experiences.</description>
+    </item>
+    
+  </channel>
+</rss>
