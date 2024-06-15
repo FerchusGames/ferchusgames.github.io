@@ -11,9 +11,15 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Projects"
+# pre = "pencil"
+  pageRef = "projects"
+  weight = 5
+
+[[main]]
   name = "Blog"
 # pre = "pencil"
-  pageRef = "post"
+  pageRef = "blog"
   weight = 10
 
 [[main]]

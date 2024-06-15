@@ -2,7 +2,7 @@
 title: "It's Not About Complexity, It's About Interaction"
 date: 2023-05-14T22:03:45-06:00
 draft: false
-tags: ["Blog"]
+tags: ["Blog", "Game Design", "Game AI"]
 ---
 
 ## Players Don't Want Intelligent AI

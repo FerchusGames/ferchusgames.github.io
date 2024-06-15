@@ -3,7 +3,7 @@ title: "Hello World!"
 description: "Introductory post to the website."
 date: 2023-05-01T15:39:02-06:00
 draft: false
-tags: ["Website", "Ferchus", "FerchusGames", "Amerike"]
+tags: ["Blog", "Website"]
 ---
 {{< typeit
     tag=h1
