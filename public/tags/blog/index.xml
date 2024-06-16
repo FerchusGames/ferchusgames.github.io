@@ -6,6 +6,7 @@
     <description>Recent content in Blog on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
     <lastBuildDate>Sun, 21 May 2023 18:48:49 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Perception Window</title>
@@ -14,6 +15,7 @@
       
       <guid>https://www.ferchus.com/blog/the-perception-window/</guid>
       <description>Creating realistic and engaging characters in video games poses a significant challenge due to the varied ways players interact with them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/the-perception-window/featured.jpg" />
     </item>
     
     <item>
@@ -22,7 +24,8 @@
       <pubDate>Sun, 14 May 2023 22:03:45 -0600</pubDate>
       
       <guid>https://www.ferchus.com/blog/its-not-about-complexity-its-about-interaction/</guid>
-      <description>Players Don&amp;rsquo;t Want Intelligent AI # The misconception surrounding AI in video games often stems from the assumption that game characters must possess high levels of intelligence to be considered impressive.</description>
+      <description>Players Don&amp;rsquo;t Want Intelligent AI #The misconception surrounding AI in video games often stems from the assumption that game characters must possess high levels of intelligence to be considered impressive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/its-not-about-complexity-its-about-interaction/featured.jpg" />
     </item>
     
     <item>
@@ -32,6 +35,7 @@
       
       <guid>https://www.ferchus.com/blog/symbolic-ai-why-games-still-need-it/</guid>
       <description>What is Symbolic AI?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/symbolic-ai-why-games-still-need-it/featured.jpg" />
     </item>
     
     <item>
@@ -41,6 +45,7 @@
       
       <guid>https://www.ferchus.com/blog/hello-world/</guid>
       <description>(Website of the Year)Hi, I&amp;rsquo;m Ferchus, an enthusiastic game development student, driven by a deep passion for crafting immersive gaming experiences.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/hello-world/featured.jpg" />
     </item>
     
   </channel>

@@ -17,10 +17,11 @@ image = "img/author.png"
 headline = "Bringing Games to Life"
 bio = "Aspiring rendering programmer dedicated to crafting immersive and captivating interactive experiences. Passionate about pushing the boundaries of interactive entertainment and honing expertise across all aspects of game development."
 links = [
-    { hltb = "https://howlongtobeat.com/user/Ferchus"},
+    { linkedin = "https://www.linkedin.com/in/ferchus"},
+    { github = "https://github.com/FerchusGames"},
     { itchio = "https://ferchus.itch.io"},
     # { discord = "https://discordapp.com/users/217089078636576768"},
-    { github = "https://github.com/FerchusGames"}
+    { hltb = "https://howlongtobeat.com/user/Ferchus"},
 ]
 
 dateFormat = "2 January 2006"

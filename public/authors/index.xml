@@ -5,6 +5,8 @@
     <link>https://www.ferchus.com/authors/</link>
     <description>Recent content in Authors on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.ferchus.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <atom:link href="https://www.ferchus.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

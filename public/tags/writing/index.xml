@@ -6,6 +6,7 @@
     <description>Recent content in Writing on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
     <lastBuildDate>Mon, 06 Dec 2021 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Is Kid A Mnesia Exhibition</title>
@@ -13,7 +14,8 @@
       <pubDate>Mon, 06 Dec 2021 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/</guid>
-      <description></description>
+      <description>Video edit of my expedition through Radiohead&amp;rsquo;s KID A MNESIA EXHIBITION.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/featured.png" />
     </item>
     
   </channel>

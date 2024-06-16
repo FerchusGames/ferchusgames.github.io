@@ -6,6 +6,7 @@
     <description>Recent content in Game Design on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
     <lastBuildDate>Sun, 21 May 2023 18:48:49 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Perception Window</title>
@@ -14,6 +15,7 @@
       
       <guid>https://www.ferchus.com/blog/the-perception-window/</guid>
       <description>Creating realistic and engaging characters in video games poses a significant challenge due to the varied ways players interact with them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/the-perception-window/featured.jpg" />
     </item>
     
     <item>
@@ -22,7 +24,8 @@
       <pubDate>Sun, 14 May 2023 22:03:45 -0600</pubDate>
       
       <guid>https://www.ferchus.com/blog/its-not-about-complexity-its-about-interaction/</guid>
-      <description>Players Don&amp;rsquo;t Want Intelligent AI # The misconception surrounding AI in video games often stems from the assumption that game characters must possess high levels of intelligence to be considered impressive.</description>
+      <description>Players Don&amp;rsquo;t Want Intelligent AI #The misconception surrounding AI in video games often stems from the assumption that game characters must possess high levels of intelligence to be considered impressive.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/its-not-about-complexity-its-about-interaction/featured.jpg" />
     </item>
     
     <item>
@@ -32,6 +35,17 @@
       
       <guid>https://www.ferchus.com/blog/symbolic-ai-why-games-still-need-it/</guid>
       <description>What is Symbolic AI?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/symbolic-ai-why-games-still-need-it/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Jita&#39;s Catastic Adventure</title>
+      <link>https://www.ferchus.com/projects/jitas-catastic-adventure/</link>
+      <pubDate>Wed, 30 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/jitas-catastic-adventure/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/jitas-catastic-adventure/featured.png" />
     </item>
     
     <item>
@@ -41,6 +55,7 @@
       
       <guid>https://www.ferchus.com/projects/quest-up/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/quest-up/featured.png" />
     </item>
     
     <item>
@@ -50,15 +65,17 @@
       
       <guid>https://www.ferchus.com/projects/dicephemy/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/dicephemy/featured.jpg" />
     </item>
     
     <item>
-      <title>Lamp</title>
+      <title>Lamp?</title>
       <link>https://www.ferchus.com/projects/lamp/</link>
       <pubDate>Wed, 08 Jun 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/lamp/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/lamp/featured.png" />
     </item>
     
     <item>
@@ -68,6 +85,7 @@
       
       <guid>https://www.ferchus.com/projects/locked/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/locked/featured.png" />
     </item>
     
     <item>
@@ -76,7 +94,8 @@
       <pubDate>Fri, 03 Dec 2021 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/deceit-the-board-game/</guid>
-      <description></description>
+      <description>Board game adaptation of the video game Deceit.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/deceit-the-board-game/featured.png" />
     </item>
     
     <item>
@@ -86,6 +105,7 @@
       
       <guid>https://www.ferchus.com/projects/una-tienda-estresada/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/una-tienda-estresada/featured.png" />
     </item>
     
   </channel>

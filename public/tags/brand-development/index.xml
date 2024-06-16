@@ -6,6 +6,7 @@
     <description>Recent content in Brand Development on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
     <lastBuildDate>Mon, 07 Nov 2022 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/brand-development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entity Brain</title>
@@ -14,6 +15,7 @@
       
       <guid>https://www.ferchus.com/projects/entity-brain/</guid>
       <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/entity-brain/featured.png" />
     </item>
     
   </channel>

@@ -6,6 +6,7 @@
     <description>Recent content in Website on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
     <lastBuildDate>Mon, 01 May 2023 15:39:02 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
@@ -14,6 +15,7 @@
       
       <guid>https://www.ferchus.com/blog/hello-world/</guid>
       <description>(Website of the Year)Hi, I&amp;rsquo;m Ferchus, an enthusiastic game development student, driven by a deep passion for crafting immersive gaming experiences.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/blog/hello-world/featured.jpg" />
     </item>
     
   </channel>

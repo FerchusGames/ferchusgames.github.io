@@ -6,6 +6,7 @@
     <description>Recent content in Tags on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
     <lastBuildDate>Sun, 21 May 2023 18:48:49 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
@@ -14,6 +15,7 @@
       
       <guid>https://www.ferchus.com/tags/blog/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -23,6 +25,7 @@
       
       <guid>https://www.ferchus.com/tags/game-ai/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -32,6 +35,7 @@
       
       <guid>https://www.ferchus.com/tags/game-design/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -41,6 +45,7 @@
       
       <guid>https://www.ferchus.com/tags/deep-learning/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -50,6 +55,17 @@
       
       <guid>https://www.ferchus.com/tags/website/</guid>
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pixel Art</title>
+      <link>https://www.ferchus.com/tags/pixel-art/</link>
+      <pubDate>Wed, 30 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/pixel-art/</guid>
+      <description></description>
+      
     </item>
     
     <item>
@@ -59,6 +75,7 @@
       
       <guid>https://www.ferchus.com/tags/game-programming/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -68,6 +85,7 @@
       
       <guid>https://www.ferchus.com/tags/unity/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -77,6 +95,7 @@
       
       <guid>https://www.ferchus.com/tags/brand-development/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -86,6 +105,7 @@
       
       <guid>https://www.ferchus.com/tags/marketing/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -95,6 +115,7 @@
       
       <guid>https://www.ferchus.com/tags/2d-art/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -104,6 +125,7 @@
       
       <guid>https://www.ferchus.com/tags/character-design/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -113,6 +135,7 @@
       
       <guid>https://www.ferchus.com/tags/drawing/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -122,6 +145,7 @@
       
       <guid>https://www.ferchus.com/tags/figma/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -131,6 +155,7 @@
       
       <guid>https://www.ferchus.com/tags/ux/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -140,6 +165,7 @@
       
       <guid>https://www.ferchus.com/tags/production/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -149,6 +175,7 @@
       
       <guid>https://www.ferchus.com/tags/video-editing/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -158,6 +185,7 @@
       
       <guid>https://www.ferchus.com/tags/writing/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -167,6 +195,7 @@
       
       <guid>https://www.ferchus.com/tags/board-game-design/</guid>
       <description></description>
+      
     </item>
     
   </channel>
