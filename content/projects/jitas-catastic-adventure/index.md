@@ -1,10 +1,10 @@
 ---
-title: "Lamp?"
-description: "An addictive quick reflexes game."
-date: 2022-06-08T12:00:00-06:00
+title: "Jita's Catastic Adventure"
+description: "Pixel concept art for a cute indie game."
+date: 2022-11-30T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Unity" , "Game Programming", "Game Design"]
+tags: ["Pixel Art", "Game Design"]
 draft: false
 ---
 
