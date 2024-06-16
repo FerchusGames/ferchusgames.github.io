@@ -3,5 +3,5 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
 [submodule "themes/blowfish"]
 	path = themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
+	url = https://github.com/FerchusGames/blowfish.git
 	branch = main
