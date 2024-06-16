@@ -6,6 +6,15 @@
   
     
       <url>
+            <loc>https://www.ferchus.com/blog/</loc>
+            <lastmod>2023-05-21T18:48:49-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://www.ferchus.com/</loc>
             <lastmod>2023-05-21T18:48:49-06:00</lastmod>
             <changefreq>daily</changefreq>
@@ -14,8 +23,14 @@
     
   
     
+  
+    
+  
+    
+  
+    
       <url>
-            <loc>https://www.ferchus.com/post/</loc>
+            <loc>https://www.ferchus.com/blog/the-perception-window/</loc>
             <lastmod>2023-05-21T18:48:49-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -23,19 +38,8 @@
     
   
     
-  
-    
       <url>
-            <loc>https://www.ferchus.com/post/the-perception-window/</loc>
-            <lastmod>2023-05-21T18:48:49-06:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.ferchus.com/post/its-not-about-complexity-its-about-interaction/</loc>
+            <loc>https://www.ferchus.com/blog/its-not-about-complexity-its-about-interaction/</loc>
             <lastmod>2023-05-14T22:03:45-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -61,8 +65,10 @@
     
   
     
+  
+    
       <url>
-            <loc>https://www.ferchus.com/post/symbolic-ai-why-games-still-need-it/</loc>
+            <loc>https://www.ferchus.com/blog/symbolic-ai-why-games-still-need-it/</loc>
             <lastmod>2023-05-06T11:17:13-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -70,6 +76,13 @@
     
   
     
+      <url>
+            <loc>https://www.ferchus.com/blog/hello-world/</loc>
+            <lastmod>2023-05-01T15:39:02-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
   
     
   
@@ -77,13 +90,125 @@
   
     
       <url>
-            <loc>https://www.ferchus.com/post/hello-world/</loc>
-            <lastmod>2023-05-01T15:39:02-06:00</lastmod>
+            <loc>https://www.ferchus.com/projects/</loc>
+            <lastmod>2022-11-29T12:00:00-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
     
   
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/quest-up/</loc>
+            <lastmod>2022-11-29T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/entity-brain/</loc>
+            <lastmod>2022-11-07T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/character-creation/</loc>
+            <lastmod>2022-10-10T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/dicephemy/</loc>
+            <lastmod>2022-07-17T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/niumi/</loc>
+            <lastmod>2022-06-09T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/lamp/</loc>
+            <lastmod>2022-06-08T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/locked/</loc>
+            <lastmod>2022-04-17T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/</loc>
+            <lastmod>2021-12-06T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/deceit-the-board-game/</loc>
+            <lastmod>2021-12-03T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.ferchus.com/projects/una-tienda-estresada/</loc>
+            <lastmod>2021-09-20T12:00:00-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
     

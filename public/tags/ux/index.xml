@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UX on Ferchus</title>
+    <link>https://www.ferchus.com/tags/ux/</link>
+    <description>Recent content in UX on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 Jun 2022 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Niumi</title>
+      <link>https://www.ferchus.com/projects/niumi/</link>
+      <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/niumi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

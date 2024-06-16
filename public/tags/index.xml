@@ -17,29 +17,29 @@
     </item>
     
     <item>
-      <title>Amerike</title>
-      <link>https://www.ferchus.com/tags/amerike/</link>
-      <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
+      <title>Game AI</title>
+      <link>https://www.ferchus.com/tags/game-ai/</link>
+      <pubDate>Sun, 21 May 2023 18:48:49 -0600</pubDate>
       
-      <guid>https://www.ferchus.com/tags/amerike/</guid>
+      <guid>https://www.ferchus.com/tags/game-ai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ferchus</title>
-      <link>https://www.ferchus.com/tags/ferchus/</link>
-      <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
+      <title>Game Design</title>
+      <link>https://www.ferchus.com/tags/game-design/</link>
+      <pubDate>Sun, 21 May 2023 18:48:49 -0600</pubDate>
       
-      <guid>https://www.ferchus.com/tags/ferchus/</guid>
+      <guid>https://www.ferchus.com/tags/game-design/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>FerchusGames</title>
-      <link>https://www.ferchus.com/tags/ferchusgames/</link>
-      <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
+      <title>Deep Learning</title>
+      <link>https://www.ferchus.com/tags/deep-learning/</link>
+      <pubDate>Sat, 06 May 2023 11:17:13 -0600</pubDate>
       
-      <guid>https://www.ferchus.com/tags/ferchusgames/</guid>
+      <guid>https://www.ferchus.com/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -49,6 +49,123 @@
       <pubDate>Mon, 01 May 2023 15:39:02 -0600</pubDate>
       
       <guid>https://www.ferchus.com/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Programming</title>
+      <link>https://www.ferchus.com/tags/game-programming/</link>
+      <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/game-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>https://www.ferchus.com/tags/unity/</link>
+      <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/unity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brand Development</title>
+      <link>https://www.ferchus.com/tags/brand-development/</link>
+      <pubDate>Mon, 07 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/brand-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing</title>
+      <link>https://www.ferchus.com/tags/marketing/</link>
+      <pubDate>Mon, 07 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/marketing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D Art</title>
+      <link>https://www.ferchus.com/tags/2d-art/</link>
+      <pubDate>Mon, 10 Oct 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/2d-art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Character Design</title>
+      <link>https://www.ferchus.com/tags/character-design/</link>
+      <pubDate>Mon, 10 Oct 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/character-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drawing</title>
+      <link>https://www.ferchus.com/tags/drawing/</link>
+      <pubDate>Mon, 10 Oct 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/drawing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figma</title>
+      <link>https://www.ferchus.com/tags/figma/</link>
+      <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/figma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UX</title>
+      <link>https://www.ferchus.com/tags/ux/</link>
+      <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/ux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Production</title>
+      <link>https://www.ferchus.com/tags/production/</link>
+      <pubDate>Mon, 06 Dec 2021 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Editing</title>
+      <link>https://www.ferchus.com/tags/video-editing/</link>
+      <pubDate>Mon, 06 Dec 2021 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/video-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>https://www.ferchus.com/tags/writing/</link>
+      <pubDate>Mon, 06 Dec 2021 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Board Game Design</title>
+      <link>https://www.ferchus.com/tags/board-game-design/</link>
+      <pubDate>Fri, 03 Dec 2021 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/board-game-design/</guid>
       <description></description>
     </item>
     
