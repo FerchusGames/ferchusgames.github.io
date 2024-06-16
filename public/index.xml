@@ -58,6 +58,16 @@
     </item>
     
     <item>
+      <title>Jita&#39;s Catastic Adventure</title>
+      <link>https://www.ferchus.com/projects/jitas-catastic-adventure/</link>
+      <pubDate>Wed, 30 Nov 2022 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/jitas-catastic-adventure/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/jitas-catastic-adventure/featured.png" />
+    </item>
+    
+    <item>
       <title>Quest Up</title>
       <link>https://www.ferchus.com/projects/quest-up/</link>
       <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
@@ -103,12 +113,12 @@
       <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/niumi/</guid>
-      <description></description>
+      <description>Interactive prototype for Niumi, an app designed to gamify the process of overcoming other app addictions, from social media to video games.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/niumi/featured.png" />
     </item>
     
     <item>
-      <title>Lamp</title>
+      <title>Lamp?</title>
       <link>https://www.ferchus.com/projects/lamp/</link>
       <pubDate>Wed, 08 Jun 2022 12:00:00 -0600</pubDate>
       
@@ -133,7 +143,7 @@
       <pubDate>Mon, 06 Dec 2021 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/</guid>
-      <description></description>
+      <description>Video edit of my expedition through Radiohead&amp;rsquo;s KID A MNESIA EXHIBITION.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/featured.png" />
     </item>
     
@@ -143,7 +153,7 @@
       <pubDate>Fri, 03 Dec 2021 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/deceit-the-board-game/</guid>
-      <description></description>
+      <description>Board game adaptation of the video game Deceit.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/deceit-the-board-game/featured.png" />
     </item>
     
