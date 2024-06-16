@@ -22,17 +22,17 @@
   pageRef = "blog"
   weight = 10
 
-[[main]]
-    identifier = "itch.io"
-    pre = "itchio"
-    url = "https://ferchus.itch.io"
-    weight = 25
+#[[main]]
+#   identifier = "itch.io"
+#    pre = "itchio"
+#    url = "https://ferchus.itch.io"
+#    weight = 25
 
-[[main]]
-    identifier = "github"
-    pre = "github"
-    url = "https://github.com/FerchusGames"
-    weight = 30
+#[[main]]
+#    identifier = "github"
+#    pre = "github"
+#    url = "https://github.com/FerchusGames"
+#    weight = 30
 
 #[[main]]
 #  name = "Parent"
