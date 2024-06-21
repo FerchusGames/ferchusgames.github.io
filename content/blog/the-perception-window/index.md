@@ -1,6 +1,7 @@
 ---
 title: "The Perception Window"
 date: 2023-05-21T18:48:49-06:00
+summary: "Creating realistic game characters requires AI that adapts to diverse player interactions while maintaining immersion."
 draft: false
 tags: ["Blog", "Game Design", "Game AI"]
 ---

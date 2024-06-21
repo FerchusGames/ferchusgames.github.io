@@ -1,6 +1,7 @@
 ---
 title: "It's Not About Complexity, It's About Interaction"
 date: 2023-05-14T22:03:45-06:00
+summary: "The key to engaging AI in video games is not high intelligence, but responsive and fun interactions that enhance immersion and player enjoyment."
 draft: false
 tags: ["Blog", "Game Design", "Game AI"]
 ---

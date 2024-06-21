@@ -1,7 +1,8 @@
 ---
 title: "Hello World!"
-description: "Introductory post to the website."
 date: 2023-05-01T15:39:02-06:00
+description: "My first post."
+summary: "My first post."
 draft: false
 tags: ["Blog", "Website"]
 ---

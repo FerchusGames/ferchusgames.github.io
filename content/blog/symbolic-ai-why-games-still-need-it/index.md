@@ -1,6 +1,7 @@
 ---
 title: "Symbolic AI: Why Games Still Need It"
 date: 2023-05-06T11:17:13-06:00
+summary: "Despite the rise of deep learning, symbolic AI remains crucial in game development for its efficiency, transparency, and flexibility."
 draft: false
 tags: ["Blog", "Game Design", "Game AI", "Deep Learning"]
 ---
