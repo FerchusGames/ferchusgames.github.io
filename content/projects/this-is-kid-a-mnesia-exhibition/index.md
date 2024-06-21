@@ -1,6 +1,7 @@
 ---
 title: "This Is Kid A Mnesia Exhibition"
 description: "A series of video essays on videogames."
+summary: "A series of video essays on videogames."
 date: 2021-12-06T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

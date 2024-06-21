@@ -1,6 +1,7 @@
 ---
 title: "You And Whose Army?"
-description: "A script for a Radiohead music video."
+description: 'My script for the music video of "You And Whose Army?" by Radiohead.'
+summary: 'My script for the music video of "You And Whose Army?" by Radiohead.'
 date: 2023-03-27T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

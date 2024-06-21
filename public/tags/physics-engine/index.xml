@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Physics Engine on Ferchus</title>
+    <link>https://www.ferchus.com/tags/physics-engine/</link>
+    <description>Recent content in Physics Engine on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Sat, 18 Mar 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/physics-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Custom Unity Physics Engine</title>
+      <link>https://www.ferchus.com/projects/custom-unity-physics-engine/</link>
+      <pubDate>Sat, 18 Mar 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/custom-unity-physics-engine/</guid>
+      <description>Simple physics engine made in Unity without using built in ones.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/custom-unity-physics-engine/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

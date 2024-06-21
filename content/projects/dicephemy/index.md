@@ -1,6 +1,7 @@
 ---
 title: "Dicephemy"
-description: "A game about rolling a die and evading hellish cubes."
+description: "GMTK Jam 2022 submission. A puzzle action game about rolling a die and evading hellish cubes."
+summary: "GMTK Jam 2022 submission. A puzzle action game about rolling a die and evading hellish cubes."
 date: 2022-07-17T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

@@ -1,6 +1,7 @@
 ---
 title: "The Demon In The Painting"
 description: "A short sketch made in Unreal Engine 5."
+summary: "A short sketch made in Unreal Engine 5."
 date: 2022-08-09T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

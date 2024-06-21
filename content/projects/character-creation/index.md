@@ -1,6 +1,7 @@
 ---
 title: "Luka Ter"
-description: "My journey through creating a full body character."
+description: "My journey of creating a full body character."
+summary: "My journey of creating a full body character."
 date: 2022-10-10T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

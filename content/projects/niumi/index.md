@@ -1,6 +1,7 @@
 ---
 title: "Niumi"
-description: "Gamified app to overcome app addictions."
+description: "Concept and design for a gamified app to overcome app addictions."
+summary: "Concept and design for a gamified app to overcome app addictions."
 date: 2022-06-09T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

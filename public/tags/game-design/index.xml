@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ferchus</copyright>
-    <lastBuildDate>Sun, 21 May 2023 18:48:49 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Nov 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hygiene Hero</title>
+      <link>https://www.ferchus.com/projects/hygiene-hero/</link>
+      <pubDate>Mon, 27 Nov 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/hygiene-hero/</guid>
+      <description>VR game about defending a public restroom with powerful plumbing tools.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/hygiene-hero/featured.png" />
+    </item>
+    
+    <item>
+      <title>BEATMATE</title>
+      <link>https://www.ferchus.com/projects/beatmate/</link>
+      <pubDate>Tue, 24 Oct 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/beatmate/</guid>
+      <description>Chess meets Action-Rhythm in an emotional indie RPG.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/beatmate/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Todwagon</title>
+      <link>https://www.ferchus.com/projects/todwagon/</link>
+      <pubDate>Sun, 09 Jul 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/todwagon/</guid>
+      <description>FPS about shooting down a crazy ambulance that&amp;rsquo;s terrorizing a city.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/todwagon/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>4th Semester Interactive Museum</title>
+      <link>https://www.ferchus.com/projects/4th-semester-interactive-museum/</link>
+      <pubDate>Fri, 23 Jun 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/4th-semester-interactive-museum/</guid>
+      <description>An interactive experience that showcases the projects I made in 4th semester of college.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/4th-semester-interactive-museum/featured.png" />
+    </item>
+    
+    <item>
+      <title>Froggeretta</title>
+      <link>https://www.ferchus.com/projects/froggeretta/</link>
+      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/froggeretta/</guid>
+      <description>A game about a frog looking for vengeance. It was made in Unreal Engine and has a trailer animatic.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/froggeretta/featured.png" />
+    </item>
+    
     <item>
       <title>The Perception Window</title>
       <link>https://www.ferchus.com/blog/the-perception-window/</link>
@@ -44,7 +94,7 @@
       <pubDate>Wed, 30 Nov 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/jitas-catastic-adventure/</guid>
-      <description></description>
+      <description>Pixel concept art for a cute indie game.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/jitas-catastic-adventure/featured.png" />
     </item>
     
@@ -54,7 +104,7 @@
       <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/quest-up/</guid>
-      <description></description>
+      <description>A bullet hell in the style of Wario Ware.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/quest-up/featured.png" />
     </item>
     
@@ -64,7 +114,7 @@
       <pubDate>Sun, 17 Jul 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/dicephemy/</guid>
-      <description></description>
+      <description>GMTK Jam 2022 submission. A puzzle action game about rolling a die and evading hellish cubes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/dicephemy/featured.jpg" />
     </item>
     
@@ -74,7 +124,7 @@
       <pubDate>Wed, 08 Jun 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/lamp/</guid>
-      <description></description>
+      <description>An addictive quick reflexes game with a banger soundtrack.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/lamp/featured.png" />
     </item>
     
@@ -84,7 +134,7 @@
       <pubDate>Sun, 17 Apr 2022 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/locked/</guid>
-      <description></description>
+      <description>Horror survival game prototype in the style of Five Nights At Freddy&amp;rsquo;s made for a self hosted game jam.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/locked/featured.png" />
     </item>
     
@@ -94,7 +144,7 @@
       <pubDate>Fri, 03 Dec 2021 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/deceit-the-board-game/</guid>
-      <description>Board game adaptation of the video game Deceit.</description>
+      <description>Board game adaptation of a hidden role game made both physically and digitally.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/deceit-the-board-game/featured.png" />
     </item>
     
@@ -104,7 +154,7 @@
       <pubDate>Mon, 20 Sep 2021 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/projects/una-tienda-estresada/</guid>
-      <description></description>
+      <description>My first game jam.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/una-tienda-estresada/featured.png" />
     </item>
     

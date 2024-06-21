@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Modeling on Ferchus</title>
+    <link>https://www.ferchus.com/tags/3d-modeling/</link>
+    <description>Recent content in 3D Modeling on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Tue, 20 Jun 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/3d-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TV Character Model &amp; Scene</title>
+      <link>https://www.ferchus.com/projects/tv-character-model-and-scene/</link>
+      <pubDate>Tue, 20 Jun 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/tv-character-model-and-scene/</guid>
+      <description>3D model and rendering of a TV character made from a reference image in 3ds Max.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/tv-character-model-and-scene/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

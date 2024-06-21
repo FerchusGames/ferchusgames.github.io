@@ -1,10 +1,11 @@
 ---
 title: "OpenGL Pyramids"
-description: "An introduction to OpenGL showcase."
+description: "Watch thousands of pyramids bounce around in a cube. Made entirely with OpenGL in C++."
+summary: "Watch thousands of pyramids bounce around in a cube. Made entirely with OpenGL in C++."
 date: 2023-03-09T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Graphics Programming", "Engine Programming"]
+tags: ["Graphics Programming", "Engine Programming", "C++"]
 draft: false
 ---
 

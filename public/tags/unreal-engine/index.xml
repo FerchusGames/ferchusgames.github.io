@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unreal Engine on Ferchus</title>
+    <link>https://www.ferchus.com/tags/unreal-engine/</link>
+    <description>Recent content in Unreal Engine on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Mon, 27 Nov 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/unreal-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hygiene Hero</title>
+      <link>https://www.ferchus.com/projects/hygiene-hero/</link>
+      <pubDate>Mon, 27 Nov 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/hygiene-hero/</guid>
+      <description>VR game about defending a public restroom with powerful plumbing tools.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/hygiene-hero/featured.png" />
+    </item>
+    
+    <item>
+      <title>Todwagon</title>
+      <link>https://www.ferchus.com/projects/todwagon/</link>
+      <pubDate>Sun, 09 Jul 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/todwagon/</guid>
+      <description>FPS about shooting down a crazy ambulance that&amp;rsquo;s terrorizing a city.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/todwagon/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>4th Semester Interactive Museum</title>
+      <link>https://www.ferchus.com/projects/4th-semester-interactive-museum/</link>
+      <pubDate>Fri, 23 Jun 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/4th-semester-interactive-museum/</guid>
+      <description>An interactive experience that showcases the projects I made in 4th semester of college.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/4th-semester-interactive-museum/featured.png" />
+    </item>
+    
+    <item>
+      <title>Unreal Engine Shader Showcase</title>
+      <link>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</link>
+      <pubDate>Sat, 17 Jun 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</guid>
+      <description>An interactive showcase of shaders made in Unreal Engine.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/unreal-engine-shader-showcase/featured.png" />
+    </item>
+    
+    <item>
+      <title>Froggeretta</title>
+      <link>https://www.ferchus.com/projects/froggeretta/</link>
+      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/froggeretta/</guid>
+      <description>A game about a frog looking for vengeance. It was made in Unreal Engine and has a trailer animatic.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/froggeretta/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

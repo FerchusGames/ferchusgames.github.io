@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ferchus</copyright>
-    <lastBuildDate>Sat, 06 May 2023 11:17:13 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Nov 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Karts</title>
+      <link>https://www.ferchus.com/projects/machine-learning-karts/</link>
+      <pubDate>Tue, 14 Nov 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/machine-learning-karts/</guid>
+      <description>Watch 100 machine learning karts race against each other!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/machine-learning-karts/featured.png" />
+    </item>
+    
     <item>
       <title>Symbolic AI: Why Games Still Need It</title>
       <link>https://www.ferchus.com/blog/symbolic-ai-why-games-still-need-it/</link>

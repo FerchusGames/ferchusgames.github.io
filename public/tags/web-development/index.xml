@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Ferchus</title>
+    <link>https://www.ferchus.com/tags/web-development/</link>
+    <description>Recent content in Web Development on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Thu, 20 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ferchus.com</title>
+      <link>https://www.ferchus.com/projects/ferchus.com/</link>
+      <pubDate>Thu, 20 Jun 2024 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/ferchus.com/</guid>
+      <description>My personal portfolio and blogging website.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/ferchus.com/featured.png" />
+    </item>
+    
+    <item>
+      <title>Digitally Unchained</title>
+      <link>https://www.ferchus.com/projects/digitally-unchained/</link>
+      <pubDate>Wed, 29 Nov 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/digitally-unchained/</guid>
+      <description>A mobile app and website combo made with Flutter and Bootstrap with the aim of combating phone addiction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/digitally-unchained/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

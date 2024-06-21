@@ -1,6 +1,7 @@
 ---
 title: "Deceit: The Board Game"
-description: "A board game adaptation of a hidden role game."
+description: "Board game adaptation of a hidden role game made both physically and digitally."
+summary: "Board game adaptation of a hidden role game made both physically and digitally."
 date: 2021-12-03T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

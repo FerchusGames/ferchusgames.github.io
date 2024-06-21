@@ -1,6 +1,7 @@
 ---
 title: "Mambo Cabana"
-description: "Animatic of the music video of Mambo Cabana."
+description: 'Animatic of the music video "Mambo Cabana".'
+summary: 'Animatic of the music video "Mambo Cabana".'
 date: 2023-03-01T12:00:00-06:00
 showReadingTime: false
 showWordCount: false

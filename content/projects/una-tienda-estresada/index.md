@@ -1,6 +1,7 @@
 ---
 title: "Una Tienda Estresada"
 description: "My first game jam."
+summary: "My first game jam."
 date: 2021-09-20T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
