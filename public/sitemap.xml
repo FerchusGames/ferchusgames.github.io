@@ -51,13 +51,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/jitas-catastic-adventure/</loc>
-    <lastmod>2022-11-30T12:00:00-06:00</lastmod>
+    <loc>https://www.ferchus.com/projects/</loc>
+    <lastmod>2023-03-27T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/</loc>
+    <loc>https://www.ferchus.com/projects/you-and-whose-army/</loc>
+    <lastmod>2023-03-27T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/opengl-pyramids/</loc>
+    <lastmod>2023-03-09T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/mambo-cabana/</loc>
+    <lastmod>2023-03-01T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/primal-rewind/</loc>
+    <lastmod>2023-02-05T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/jitas-catastic-adventure/</loc>
     <lastmod>2022-11-30T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -77,6 +101,12 @@
   <url>
     <loc>https://www.ferchus.com/projects/character-creation/</loc>
     <lastmod>2022-10-10T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/the-demon-in-the-painting/</loc>
+    <lastmod>2022-08-09T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

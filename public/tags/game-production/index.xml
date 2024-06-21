@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Production on Ferchus</title>
+    <link>https://www.ferchus.com/tags/game-production/</link>
+    <description>Recent content in Game Production on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Sun, 05 Feb 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/game-production/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primal Rewind</title>
+      <link>https://www.ferchus.com/projects/primal-rewind/</link>
+      <pubDate>Sun, 05 Feb 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/primal-rewind/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/primal-rewind/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
