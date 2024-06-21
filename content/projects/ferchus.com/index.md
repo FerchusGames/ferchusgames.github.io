@@ -6,7 +6,7 @@ date: 2024-06-20T12:00:00-06:00
 showDate: true
 showReadingTime: false
 showWordCount: false
-tags: ["Flutter", "Bootstrap", "Web Development", "Mobile Development"]
+tags: ["Web Development"]
 draft: false
 ---
 
