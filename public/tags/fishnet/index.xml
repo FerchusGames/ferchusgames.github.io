@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fishnet on Ferchus</title>
+    <link>https://www.ferchus.com/tags/fishnet/</link>
+    <description>Recent content in Fishnet on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Thu, 13 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/fishnet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towerfrog</title>
+      <link>https://www.ferchus.com/featured/towerfrog/</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/featured/towerfrog/</guid>
+      <description>An online and LAN basic recreation of the game Towerfall using an authoritative server and client-side prediction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/featured/towerfrog/featured.png" />
+    </item>
+    
+    <item>
+      <title>Towerfrog</title>
+      <link>https://www.ferchus.com/projects/towerfrog/</link>
+      <pubDate>Thu, 13 Jun 2024 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/towerfrog/</guid>
+      <description>An online and LAN basic recreation of the game Towerfall using an authoritative server and client-side prediction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/towerfrog/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

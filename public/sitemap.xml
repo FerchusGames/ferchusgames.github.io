@@ -21,6 +21,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.ferchus.com/featured/</loc>
+    <lastmod>2024-06-19T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/featured/tray-dash/</loc>
+    <lastmod>2024-06-19T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/tray-dash/</loc>
+    <lastmod>2024-06-19T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/featured/towerfrog/</loc>
+    <lastmod>2024-06-13T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/towerfrog/</loc>
+    <lastmod>2024-06-13T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/featured/level-design-demo-reel/</loc>
+    <lastmod>2024-06-06T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.ferchus.com/projects/level-design-demo-reel/</loc>
+    <lastmod>2024-06-06T12:00:00-06:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.ferchus.com/projects/digitally-unchained/</loc>
     <lastmod>2023-11-29T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
