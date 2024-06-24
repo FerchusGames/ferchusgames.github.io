@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vuforia on Ferchus</title>
+    <link>https://www.ferchus.com/tags/vuforia/</link>
+    <description>Recent content in Vuforia on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ferchus</copyright>
+    <lastBuildDate>Mon, 10 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/vuforia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BTS AR Chess Pieces </title>
+      <link>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</link>
+      <pubDate>Mon, 10 Jun 2024 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</guid>
+      <description>An interactive AR experience in which you can learn the way the chess pieces move by scanning BTS members images.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
