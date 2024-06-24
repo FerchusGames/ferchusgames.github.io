@@ -1,7 +1,7 @@
 ---
 title: "Grave of the Fireflies Sound Design"
-description: "A reimagination of the sound design for the ending of one of the devastating Ghibli film."
-summary: "A reimagination of the sound design for the ending of one of the devastating Ghibli film."
+description: "A reimagination of the sound design for the ending of one of the most devastating Ghibli films."
+summary: "A reimagination of the sound design for the ending of one of the most devastating Ghibli films."
 date: 2024-05-04T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
