@@ -16,6 +16,8 @@ draft: false
     href="https://play.google.com/store/apps/details?id=com.TrayDash.TrayDash&pcampaignid=web_share"
 >}}
 
+{{< youtubeLite id="JsjwPBjlujk" label="Tray Dash Gameplay" >}}
+
 Tray Dash was born as a school project for the 5th semester project class. It was a game where you had to balance food on a tray. The idea originated when my classmate Itzel remembered a 2D mini-game within a mobile game called "Egg Baby," where you had to balance an egg on a spoon until you reached the end. In our case, we decided to add another dimension by making it 3D and increasing the number of objects to balance, this time on a tray instead of a spoon.
 
 {{< youtubeLite id="PtLi7jzY2Ao" label="Egg Baby Minigame" params="start=6">}}
@@ -47,8 +49,6 @@ In Tray Dash, you had to balance the tray forward and backward, left and right, 
 ## A Successful Project 
 
 In the end, we delivered the project on time. People found it enjoyable and well-polished in terms of gameplay. We added features like camera shake, responsive sound effects, and an animation of fireworks when delivering the food, making the experience more gratifying.
-
-{{< youtubeLite id="JsjwPBjlujk" label="Tray Dash Gameplay" >}}
 
 ## Available on the Google Play Store!
 
