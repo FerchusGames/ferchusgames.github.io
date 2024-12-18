@@ -9,7 +9,7 @@ tags: ["Level Design" ,"Unreal Engine" , "Game Programming", "Game Design"]
 draft: false
 ---
 
-{{< youtube id="SAI3jufJw40" label="My level design demo reel">}}
+{{< youtubeLite id="SAI3jufJw40" label="My level design demo reel">}}
 
 This video showcases my work during the level design class, featuring four mini projects: Neon White, Portal 2, Fallout 3, and Baba Is You.
 
@@ -20,7 +20,7 @@ We began by analyzing the game, starting with a superficial understanding of its
 
 Our task was to create a prototype of the game using Unreal Engine, focusing on a tutorial level where players would learn to run, jump, shoot, take shortcuts, and discard cards.
 
-{{< youtube id="Wia3bM8U8xo" label="Neon White Alternate Tutorial Level UE5." >}}
+{{< youtubeLite id="Wia3bM8U8xo" label="Neon White Alternate Tutorial Level UE5." >}}
 Neon White Alternate Tutorial Level in Unreal Engine 5.
 
 ## Portal 2
@@ -30,8 +30,8 @@ For this project, the objective was to design a tutorial level, an intermediate 
 
 I learned a lot about playtesting during this project, continually adjusting the levels based on player feedback. For instance, I had to increase the lighting in areas where players struggled to see portal surfaces. Sometimes, players would complete levels in unintended ways, and I had to decide whether to fix these or leave them as creative solutions. Most of the time, I opted to fix them.
 
-{{< youtube id="aPZ2o0KCJUA" label="My Portal 2 Level Pack Walkthrough." >}}
-(SPOILERS) My Portal 2 Level Pack Walkthrough.
+{{< youtubeLite id="aPZ2o0KCJUA" label="My Portal 2 Level Pack Walkthrough." >}}
+(SPOILERS)      My Portal 2 Level Pack Walkthrough.
 
 This project is available through the download button below, with instructions for installation via the Steam Workshop.
 
@@ -55,7 +55,7 @@ In this project, similar to Portal 2, we created a tutorial, intermediate, and a
 
 I tested these levels with three people who were unfamiliar with the game. This allowed me to create a well-structured progression from tutorial to advanced levels, ensuring players learned the game's concepts effectively. It was interesting to see them solve puzzles and feel smart about their solutions. Sometimes, they would find unintended ways to complete the levels, which I had to fix.
 
-{{< youtube id="3XgUsHtcjlk" label="My Baba Is You Level Pack Walkthrough." >}}
+{{< youtubeLite id="3XgUsHtcjlk" label="My Baba Is You Level Pack Walkthrough." >}}
 (SPOILERS) My Baba Is You Level Pack Walkthrough.
 
 This project is also available through the download button below, with installation instructions provided.
