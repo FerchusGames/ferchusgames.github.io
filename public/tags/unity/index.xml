@@ -49,16 +49,6 @@
     </item>
     
     <item>
-      <title>BTS AR Chess Pieces </title>
-      <link>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</link>
-      <pubDate>Mon, 10 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</guid>
-      <description>An interactive AR experience in which you can learn the way the chess pieces move by scanning BTS members images.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/featured.png" />
-    </item>
-    
-    <item>
       <title>Machine Learning Karts</title>
       <link>https://www.ferchus.com/projects/machine-learning-karts/</link>
       <pubDate>Tue, 14 Nov 2023 12:00:00 -0600</pubDate>
@@ -66,16 +56,6 @@
       <guid>https://www.ferchus.com/projects/machine-learning-karts/</guid>
       <description>Watch 100 machine learning karts race against each other!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/machine-learning-karts/featured.png" />
-    </item>
-    
-    <item>
-      <title>BEATMATE</title>
-      <link>https://www.ferchus.com/projects/beatmate/</link>
-      <pubDate>Tue, 24 Oct 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/beatmate/</guid>
-      <description>Chess meets Action-Rhythm in an emotional indie RPG.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/beatmate/featured.jpg" />
     </item>
     
     <item>
@@ -99,26 +79,6 @@
     </item>
     
     <item>
-      <title>Primal Rewind</title>
-      <link>https://www.ferchus.com/projects/primal-rewind/</link>
-      <pubDate>Sun, 05 Feb 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/primal-rewind/</guid>
-      <description>Global Game Jam 2022 submission. I was the producer and part of the programming team.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/primal-rewind/featured.png" />
-    </item>
-    
-    <item>
-      <title>Quest Up</title>
-      <link>https://www.ferchus.com/projects/quest-up/</link>
-      <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/quest-up/</guid>
-      <description>A bullet hell in the style of Wario Ware.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/quest-up/featured.png" />
-    </item>
-    
-    <item>
       <title>Dicephemy</title>
       <link>https://www.ferchus.com/projects/dicephemy/</link>
       <pubDate>Sun, 17 Jul 2022 12:00:00 -0600</pubDate>
@@ -136,26 +96,6 @@
       <guid>https://www.ferchus.com/projects/lamp/</guid>
       <description>An addictive quick reflexes game with a banger soundtrack.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/lamp/featured.png" />
-    </item>
-    
-    <item>
-      <title>Locked</title>
-      <link>https://www.ferchus.com/projects/locked/</link>
-      <pubDate>Sun, 17 Apr 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/locked/</guid>
-      <description>Horror survival game prototype in the style of Five Nights At Freddy&amp;rsquo;s made for a self hosted game jam.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/locked/featured.png" />
-    </item>
-    
-    <item>
-      <title>Una Tienda Estresada</title>
-      <link>https://www.ferchus.com/projects/una-tienda-estresada/</link>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/una-tienda-estresada/</guid>
-      <description>My first game jam.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/una-tienda-estresada/featured.png" />
     </item>
     
   </channel>

@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ferchus</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ferchus.com</title>
-      <link>https://www.ferchus.com/projects/ferchus.com/</link>
-      <pubDate>Thu, 20 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/ferchus.com/</guid>
-      <description>My personal portfolio and blogging website.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/ferchus.com/featured.png" />
-    </item>
-    
+    <lastBuildDate>Wed, 19 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tray Dash</title>
       <link>https://www.ferchus.com/featured/tray-dash/</link>
@@ -59,16 +49,6 @@
     </item>
     
     <item>
-      <title>BTS AR Chess Pieces </title>
-      <link>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</link>
-      <pubDate>Mon, 10 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</guid>
-      <description>An interactive AR experience in which you can learn the way the chess pieces move by scanning BTS members images.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/featured.png" />
-    </item>
-    
-    <item>
       <title>Level Design Demo Reel</title>
       <link>https://www.ferchus.com/featured/level-design-demo-reel/</link>
       <pubDate>Thu, 06 Jun 2024 12:00:00 -0600</pubDate>
@@ -89,36 +69,6 @@
     </item>
     
     <item>
-      <title>Grave of the Fireflies Sound Design</title>
-      <link>https://www.ferchus.com/projects/grave-of-the-fireflies-sound-design/</link>
-      <pubDate>Sat, 04 May 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/grave-of-the-fireflies-sound-design/</guid>
-      <description>A reimagination of the sound design for the ending of one of the most devastating Ghibli films.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/grave-of-the-fireflies-sound-design/featured.png" />
-    </item>
-    
-    <item>
-      <title>Digitally Unchained</title>
-      <link>https://www.ferchus.com/projects/digitally-unchained/</link>
-      <pubDate>Wed, 29 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/digitally-unchained/</guid>
-      <description>A mobile app and website combo made with Flutter and Bootstrap with the aim of combating phone addiction.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/digitally-unchained/featured.png" />
-    </item>
-    
-    <item>
-      <title>Hygiene Hero</title>
-      <link>https://www.ferchus.com/projects/hygiene-hero/</link>
-      <pubDate>Mon, 27 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/hygiene-hero/</guid>
-      <description>VR game about defending a public restroom with powerful plumbing tools.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/hygiene-hero/featured.png" />
-    </item>
-    
-    <item>
       <title>Machine Learning Karts</title>
       <link>https://www.ferchus.com/projects/machine-learning-karts/</link>
       <pubDate>Tue, 14 Nov 2023 12:00:00 -0600</pubDate>
@@ -126,66 +76,6 @@
       <guid>https://www.ferchus.com/projects/machine-learning-karts/</guid>
       <description>Watch 100 machine learning karts race against each other!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/machine-learning-karts/featured.png" />
-    </item>
-    
-    <item>
-      <title>BEATMATE</title>
-      <link>https://www.ferchus.com/projects/beatmate/</link>
-      <pubDate>Tue, 24 Oct 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/beatmate/</guid>
-      <description>Chess meets Action-Rhythm in an emotional indie RPG.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/beatmate/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Todwagon</title>
-      <link>https://www.ferchus.com/projects/todwagon/</link>
-      <pubDate>Sun, 09 Jul 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/todwagon/</guid>
-      <description>FPS about shooting down a crazy ambulance that&amp;rsquo;s terrorizing a city.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/todwagon/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>4th Semester Interactive Museum</title>
-      <link>https://www.ferchus.com/projects/4th-semester-interactive-museum/</link>
-      <pubDate>Fri, 23 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/4th-semester-interactive-museum/</guid>
-      <description>An interactive experience that showcases the projects I made in 4th semester of college.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/4th-semester-interactive-museum/featured.png" />
-    </item>
-    
-    <item>
-      <title>TV Character Model &amp; Scene</title>
-      <link>https://www.ferchus.com/projects/tv-character-model-and-scene/</link>
-      <pubDate>Tue, 20 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/tv-character-model-and-scene/</guid>
-      <description>3D model and rendering of a TV character made from a reference image in 3ds Max.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/tv-character-model-and-scene/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Unreal Engine Shader Showcase</title>
-      <link>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</link>
-      <pubDate>Sat, 17 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</guid>
-      <description>An interactive showcase of shaders made in Unreal Engine.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/unreal-engine-shader-showcase/featured.png" />
-    </item>
-    
-    <item>
-      <title>Froggeretta</title>
-      <link>https://www.ferchus.com/projects/froggeretta/</link>
-      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/froggeretta/</guid>
-      <description>A game about a frog looking for vengeance. It was made in Unreal Engine and has a trailer animatic.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/froggeretta/featured.png" />
     </item>
     
     <item>
@@ -249,16 +139,6 @@
     </item>
     
     <item>
-      <title>You And Whose Army?</title>
-      <link>https://www.ferchus.com/projects/you-and-whose-army/</link>
-      <pubDate>Mon, 27 Mar 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/you-and-whose-army/</guid>
-      <description>My script for the music video of &amp;ldquo;You And Whose Army?&amp;rdquo; by Radiohead.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/you-and-whose-army/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Custom Unity Physics Engine</title>
       <link>https://www.ferchus.com/projects/custom-unity-physics-engine/</link>
       <pubDate>Sat, 18 Mar 2023 12:00:00 -0600</pubDate>
@@ -279,76 +159,6 @@
     </item>
     
     <item>
-      <title>Mambo Cabana</title>
-      <link>https://www.ferchus.com/projects/mambo-cabana/</link>
-      <pubDate>Wed, 01 Mar 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/mambo-cabana/</guid>
-      <description>Animatic of the music video &amp;ldquo;Mambo Cabana&amp;rdquo;.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/mambo-cabana/featured.png" />
-    </item>
-    
-    <item>
-      <title>Primal Rewind</title>
-      <link>https://www.ferchus.com/projects/primal-rewind/</link>
-      <pubDate>Sun, 05 Feb 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/primal-rewind/</guid>
-      <description>Global Game Jam 2022 submission. I was the producer and part of the programming team.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/primal-rewind/featured.png" />
-    </item>
-    
-    <item>
-      <title>Jita&#39;s Catastic Adventure</title>
-      <link>https://www.ferchus.com/projects/jitas-catastic-adventure/</link>
-      <pubDate>Wed, 30 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/jitas-catastic-adventure/</guid>
-      <description>Pixel concept art for a cute indie game.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/jitas-catastic-adventure/featured.png" />
-    </item>
-    
-    <item>
-      <title>Quest Up</title>
-      <link>https://www.ferchus.com/projects/quest-up/</link>
-      <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/quest-up/</guid>
-      <description>A bullet hell in the style of Wario Ware.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/quest-up/featured.png" />
-    </item>
-    
-    <item>
-      <title>Entity Brain</title>
-      <link>https://www.ferchus.com/projects/entity-brain/</link>
-      <pubDate>Mon, 07 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/entity-brain/</guid>
-      <description>Horror indie game studio brand concept.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/entity-brain/featured.png" />
-    </item>
-    
-    <item>
-      <title>Luka Ter</title>
-      <link>https://www.ferchus.com/projects/character-creation/</link>
-      <pubDate>Mon, 10 Oct 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/character-creation/</guid>
-      <description>My journey of creating a full body character.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/character-creation/featured.png" />
-    </item>
-    
-    <item>
-      <title>The Demon In The Painting</title>
-      <link>https://www.ferchus.com/projects/the-demon-in-the-painting/</link>
-      <pubDate>Tue, 09 Aug 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/the-demon-in-the-painting/</guid>
-      <description>A short sketch made in Unreal Engine 5.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/the-demon-in-the-painting/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Dicephemy</title>
       <link>https://www.ferchus.com/projects/dicephemy/</link>
       <pubDate>Sun, 17 Jul 2022 12:00:00 -0600</pubDate>
@@ -359,16 +169,6 @@
     </item>
     
     <item>
-      <title>Niumi</title>
-      <link>https://www.ferchus.com/projects/niumi/</link>
-      <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/niumi/</guid>
-      <description>Concept and design for a gamified app to overcome app addictions.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/niumi/featured.png" />
-    </item>
-    
-    <item>
       <title>Lamp?</title>
       <link>https://www.ferchus.com/projects/lamp/</link>
       <pubDate>Wed, 08 Jun 2022 12:00:00 -0600</pubDate>
@@ -376,46 +176,6 @@
       <guid>https://www.ferchus.com/projects/lamp/</guid>
       <description>An addictive quick reflexes game with a banger soundtrack.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/lamp/featured.png" />
-    </item>
-    
-    <item>
-      <title>Locked</title>
-      <link>https://www.ferchus.com/projects/locked/</link>
-      <pubDate>Sun, 17 Apr 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/locked/</guid>
-      <description>Horror survival game prototype in the style of Five Nights At Freddy&amp;rsquo;s made for a self hosted game jam.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/locked/featured.png" />
-    </item>
-    
-    <item>
-      <title>This Is Kid A Mnesia Exhibition</title>
-      <link>https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/</link>
-      <pubDate>Mon, 06 Dec 2021 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/</guid>
-      <description>A series of video essays on videogames.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/featured.png" />
-    </item>
-    
-    <item>
-      <title>Deceit: The Board Game</title>
-      <link>https://www.ferchus.com/projects/deceit-the-board-game/</link>
-      <pubDate>Fri, 03 Dec 2021 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/deceit-the-board-game/</guid>
-      <description>Board game adaptation of a hidden role game made both physically and digitally.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/deceit-the-board-game/featured.png" />
-    </item>
-    
-    <item>
-      <title>Una Tienda Estresada</title>
-      <link>https://www.ferchus.com/projects/una-tienda-estresada/</link>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/una-tienda-estresada/</guid>
-      <description>My first game jam.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/una-tienda-estresada/featured.png" />
     </item>
     
   </channel>

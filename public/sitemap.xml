@@ -3,25 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://www.ferchus.com/</loc>
-    <lastmod>2024-06-20T12:00:00-06:00</lastmod>
+    <loc>https://www.ferchus.com/featured/</loc>
+    <lastmod>2024-06-19T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/ferchus.com/</loc>
-    <lastmod>2024-06-20T12:00:00-06:00</lastmod>
+    <loc>https://www.ferchus.com/</loc>
+    <lastmod>2024-06-19T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.ferchus.com/projects/</loc>
-    <lastmod>2024-06-20T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/featured/</loc>
     <lastmod>2024-06-19T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -51,12 +45,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/bts-ar-chess-pieces-tutorial/</loc>
-    <lastmod>2024-06-10T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.ferchus.com/featured/level-design-demo-reel/</loc>
     <lastmod>2024-06-06T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
@@ -69,62 +57,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/grave-of-the-fireflies-sound-design/</loc>
-    <lastmod>2024-05-04T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/digitally-unchained/</loc>
-    <lastmod>2023-11-29T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/hygiene-hero/</loc>
-    <lastmod>2023-11-27T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.ferchus.com/projects/machine-learning-karts/</loc>
     <lastmod>2023-11-14T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/beatmate/</loc>
-    <lastmod>2023-10-24T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/todwagon/</loc>
-    <lastmod>2023-07-09T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/4th-semester-interactive-museum/</loc>
-    <lastmod>2023-06-23T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/tv-character-model-and-scene/</loc>
-    <lastmod>2023-06-20T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</loc>
-    <lastmod>2023-06-17T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/froggeretta/</loc>
-    <lastmod>2023-06-12T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -177,12 +111,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/you-and-whose-army/</loc>
-    <lastmod>2023-03-27T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.ferchus.com/projects/custom-unity-physics-engine/</loc>
     <lastmod>2023-03-18T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
@@ -195,86 +123,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/mambo-cabana/</loc>
-    <lastmod>2023-03-01T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/primal-rewind/</loc>
-    <lastmod>2023-02-05T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/jitas-catastic-adventure/</loc>
-    <lastmod>2022-11-30T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/quest-up/</loc>
-    <lastmod>2022-11-29T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/entity-brain/</loc>
-    <lastmod>2022-11-07T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/character-creation/</loc>
-    <lastmod>2022-10-10T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/the-demon-in-the-painting/</loc>
-    <lastmod>2022-08-09T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.ferchus.com/projects/dicephemy/</loc>
     <lastmod>2022-07-17T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.ferchus.com/projects/niumi/</loc>
-    <lastmod>2022-06-09T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.ferchus.com/projects/lamp/</loc>
     <lastmod>2022-06-08T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/locked/</loc>
-    <lastmod>2022-04-17T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/this-is-kid-a-mnesia-exhibition/</loc>
-    <lastmod>2021-12-06T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/deceit-the-board-game/</loc>
-    <lastmod>2021-12-03T12:00:00-06:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.ferchus.com/projects/una-tienda-estresada/</loc>
-    <lastmod>2021-09-20T12:00:00-06:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

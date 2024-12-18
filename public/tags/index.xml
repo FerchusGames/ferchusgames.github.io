@@ -7,17 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Ferchus</copyright>
-    <lastBuildDate>Thu, 20 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Web Development</title>
-      <link>https://www.ferchus.com/tags/web-development/</link>
-      <pubDate>Thu, 20 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/web-development/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Wed, 19 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game Design</title>
       <link>https://www.ferchus.com/tags/game-design/</link>
@@ -89,26 +79,6 @@
     </item>
     
     <item>
-      <title>AR</title>
-      <link>https://www.ferchus.com/tags/ar/</link>
-      <pubDate>Mon, 10 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/ar/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vuforia</title>
-      <link>https://www.ferchus.com/tags/vuforia/</link>
-      <pubDate>Mon, 10 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/vuforia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Level Design</title>
       <link>https://www.ferchus.com/tags/level-design/</link>
       <pubDate>Thu, 06 Jun 2024 12:00:00 -0600</pubDate>
@@ -124,66 +94,6 @@
       <pubDate>Thu, 06 Jun 2024 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/tags/unreal-engine/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Reaper</title>
-      <link>https://www.ferchus.com/tags/reaper/</link>
-      <pubDate>Sat, 04 May 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/reaper/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Sound Design</title>
-      <link>https://www.ferchus.com/tags/sound-design/</link>
-      <pubDate>Sat, 04 May 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/sound-design/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bootstrap</title>
-      <link>https://www.ferchus.com/tags/bootstrap/</link>
-      <pubDate>Wed, 29 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/bootstrap/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Flutter</title>
-      <link>https://www.ferchus.com/tags/flutter/</link>
-      <pubDate>Wed, 29 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/flutter/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mobile Development</title>
-      <link>https://www.ferchus.com/tags/mobile-development/</link>
-      <pubDate>Wed, 29 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/mobile-development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>VR</title>
-      <link>https://www.ferchus.com/tags/vr/</link>
-      <pubDate>Mon, 27 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/vr/</guid>
       <description></description>
       
     </item>
@@ -209,66 +119,6 @@
     </item>
     
     <item>
-      <title>3D Modeling</title>
-      <link>https://www.ferchus.com/tags/3d-modeling/</link>
-      <pubDate>Tue, 20 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/3d-modeling/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>3ds Max</title>
-      <link>https://www.ferchus.com/tags/3ds-max/</link>
-      <pubDate>Tue, 20 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/3ds-max/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shader</title>
-      <link>https://www.ferchus.com/tags/shader/</link>
-      <pubDate>Sat, 17 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/shader/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Production</title>
-      <link>https://www.ferchus.com/tags/production/</link>
-      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/production/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Video Editing</title>
-      <link>https://www.ferchus.com/tags/video-editing/</link>
-      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/video-editing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Writing</title>
-      <link>https://www.ferchus.com/tags/writing/</link>
-      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/writing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Blog</title>
       <link>https://www.ferchus.com/tags/blog/</link>
       <pubDate>Sun, 21 May 2023 18:48:49 -0600</pubDate>
@@ -284,6 +134,16 @@
       <pubDate>Sun, 21 May 2023 18:48:49 -0600</pubDate>
       
       <guid>https://www.ferchus.com/tags/game-ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shader</title>
+      <link>https://www.ferchus.com/tags/shader/</link>
+      <pubDate>Sun, 14 May 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/tags/shader/</guid>
       <description></description>
       
     </item>
@@ -334,106 +194,6 @@
       <pubDate>Thu, 09 Mar 2023 12:00:00 -0600</pubDate>
       
       <guid>https://www.ferchus.com/tags/graphics-programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Drawing</title>
-      <link>https://www.ferchus.com/tags/drawing/</link>
-      <pubDate>Wed, 01 Mar 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/drawing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Game Production</title>
-      <link>https://www.ferchus.com/tags/game-production/</link>
-      <pubDate>Sun, 05 Feb 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/game-production/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Pixel Art</title>
-      <link>https://www.ferchus.com/tags/pixel-art/</link>
-      <pubDate>Wed, 30 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/pixel-art/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Brand Development</title>
-      <link>https://www.ferchus.com/tags/brand-development/</link>
-      <pubDate>Mon, 07 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/brand-development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Marketing</title>
-      <link>https://www.ferchus.com/tags/marketing/</link>
-      <pubDate>Mon, 07 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/marketing/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>2D Art</title>
-      <link>https://www.ferchus.com/tags/2d-art/</link>
-      <pubDate>Mon, 10 Oct 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/2d-art/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Character Design</title>
-      <link>https://www.ferchus.com/tags/character-design/</link>
-      <pubDate>Mon, 10 Oct 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/character-design/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Figma</title>
-      <link>https://www.ferchus.com/tags/figma/</link>
-      <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/figma/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>UX</title>
-      <link>https://www.ferchus.com/tags/ux/</link>
-      <pubDate>Thu, 09 Jun 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/ux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Board Game Design</title>
-      <link>https://www.ferchus.com/tags/board-game-design/</link>
-      <pubDate>Fri, 03 Dec 2021 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/tags/board-game-design/</guid>
       <description></description>
       
     </item>

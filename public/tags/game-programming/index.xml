@@ -69,56 +69,6 @@
     </item>
     
     <item>
-      <title>Hygiene Hero</title>
-      <link>https://www.ferchus.com/projects/hygiene-hero/</link>
-      <pubDate>Mon, 27 Nov 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/hygiene-hero/</guid>
-      <description>VR game about defending a public restroom with powerful plumbing tools.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/hygiene-hero/featured.png" />
-    </item>
-    
-    <item>
-      <title>BEATMATE</title>
-      <link>https://www.ferchus.com/projects/beatmate/</link>
-      <pubDate>Tue, 24 Oct 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/beatmate/</guid>
-      <description>Chess meets Action-Rhythm in an emotional indie RPG.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/beatmate/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Todwagon</title>
-      <link>https://www.ferchus.com/projects/todwagon/</link>
-      <pubDate>Sun, 09 Jul 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/todwagon/</guid>
-      <description>FPS about shooting down a crazy ambulance that&amp;rsquo;s terrorizing a city.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/todwagon/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Unreal Engine Shader Showcase</title>
-      <link>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</link>
-      <pubDate>Sat, 17 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/unreal-engine-shader-showcase/</guid>
-      <description>An interactive showcase of shaders made in Unreal Engine.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/unreal-engine-shader-showcase/featured.png" />
-    </item>
-    
-    <item>
-      <title>Froggeretta</title>
-      <link>https://www.ferchus.com/projects/froggeretta/</link>
-      <pubDate>Mon, 12 Jun 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/froggeretta/</guid>
-      <description>A game about a frog looking for vengeance. It was made in Unreal Engine and has a trailer animatic.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/froggeretta/featured.png" />
-    </item>
-    
-    <item>
       <title>Unity Shader Showcase</title>
       <link>https://www.ferchus.com/projects/unity-shader-showcase/</link>
       <pubDate>Sun, 14 May 2023 12:00:00 -0600</pubDate>
@@ -139,26 +89,6 @@
     </item>
     
     <item>
-      <title>Primal Rewind</title>
-      <link>https://www.ferchus.com/projects/primal-rewind/</link>
-      <pubDate>Sun, 05 Feb 2023 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/primal-rewind/</guid>
-      <description>Global Game Jam 2022 submission. I was the producer and part of the programming team.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/primal-rewind/featured.png" />
-    </item>
-    
-    <item>
-      <title>Quest Up</title>
-      <link>https://www.ferchus.com/projects/quest-up/</link>
-      <pubDate>Tue, 29 Nov 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/quest-up/</guid>
-      <description>A bullet hell in the style of Wario Ware.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/quest-up/featured.png" />
-    </item>
-    
-    <item>
       <title>Dicephemy</title>
       <link>https://www.ferchus.com/projects/dicephemy/</link>
       <pubDate>Sun, 17 Jul 2022 12:00:00 -0600</pubDate>
@@ -176,26 +106,6 @@
       <guid>https://www.ferchus.com/projects/lamp/</guid>
       <description>An addictive quick reflexes game with a banger soundtrack.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/lamp/featured.png" />
-    </item>
-    
-    <item>
-      <title>Locked</title>
-      <link>https://www.ferchus.com/projects/locked/</link>
-      <pubDate>Sun, 17 Apr 2022 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/locked/</guid>
-      <description>Horror survival game prototype in the style of Five Nights At Freddy&amp;rsquo;s made for a self hosted game jam.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/locked/featured.png" />
-    </item>
-    
-    <item>
-      <title>Una Tienda Estresada</title>
-      <link>https://www.ferchus.com/projects/una-tienda-estresada/</link>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/projects/una-tienda-estresada/</guid>
-      <description>My first game jam.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/una-tienda-estresada/featured.png" />
     </item>
     
   </channel>
