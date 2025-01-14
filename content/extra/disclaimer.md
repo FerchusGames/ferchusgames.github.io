@@ -9,6 +9,6 @@ sharingLinks: false
 draft: false
 ---
 
-Some of the posts on this website are written with the help of OpenAI tools. These tools allow me to write more efficiently and effectively, but they do not replace my human judgment and creativity. I always review and edit the AI-generated content before publishing it. 
+Some of the posts on this website are edited with the help of AI tools to be more concise. When I use them it's based on a draft that I wrote and after making the changes I always review the AI-generated content before publishing. 
 
 I get my images for the blog posts from unsplash.com.
