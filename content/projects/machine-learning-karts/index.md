@@ -5,7 +5,7 @@ summary: "Watch 100 machine learning karts race against each other!"
 date: 2023-11-14T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Unity" , "AI", "Deep Learning"]
+tags: ["Unity" , "Game AI", "Deep Learning"]
 draft: false
 ---
 

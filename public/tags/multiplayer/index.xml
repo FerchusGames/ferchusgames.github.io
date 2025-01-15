@@ -6,18 +6,8 @@
     <description>Recent content in Multiplayer on Ferchus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Ferchus</copyright>
+    <copyright>© 2025 Ferchus</copyright>
     <lastBuildDate>Thu, 13 Jun 2024 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/multiplayer/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Towerfrog</title>
-      <link>https://www.ferchus.com/featured/towerfrog/</link>
-      <pubDate>Thu, 13 Jun 2024 12:00:00 -0600</pubDate>
-      
-      <guid>https://www.ferchus.com/featured/towerfrog/</guid>
-      <description>An online and LAN basic recreation of the game Towerfall using an authoritative server and client-side prediction.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/featured/towerfrog/featured.png" />
-    </item>
-    
     <item>
       <title>Towerfrog</title>
       <link>https://www.ferchus.com/projects/towerfrog/</link>

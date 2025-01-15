@@ -5,7 +5,7 @@ summary: "A showcase of my skills as a level designer. It includes a Unreal Engi
 date: 2024-06-06T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Level Design" ,"Unreal Engine" , "Game Programming", "Game Design"]
+tags: ["Level Design", "Game Programming", "Game Design"]
 draft: false
 ---
 

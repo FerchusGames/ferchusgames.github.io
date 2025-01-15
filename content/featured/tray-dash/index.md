@@ -5,7 +5,6 @@ summary: "An endless runner where players balance a tray of food items and deliv
 date: 2024-06-19T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Unity" , "Game Programming", "Game Design", "Project Management"]
 draft: false
 ---
 {{< figure

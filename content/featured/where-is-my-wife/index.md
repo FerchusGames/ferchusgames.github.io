@@ -5,7 +5,6 @@ summary: "Climb your way out of hell, conquer precise and difficult challenges, 
 date: 2024-12-13T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Unity" , "Game Programming", "Game Design", "Level Design"]
 draft: false
 ---
 {{< youtubeLite id="NuRKL0nl__I" label="Where Is My Wife? Itch Release Trailer" >}}

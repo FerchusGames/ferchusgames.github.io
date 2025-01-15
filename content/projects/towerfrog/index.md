@@ -5,7 +5,7 @@ summary: "An online and LAN basic recreation of the game Towerfall using an auth
 date: 2024-06-13T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Unity", "Fishnet", "Netcode", "Multiplayer", "Game Programming"]
+tags: ["Unity", "Multiplayer", "Game Programming"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ summary: "Simple physics engine made in Unity without using built in ones."
 date: 2023-03-18T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Unity" , "Game Programming", "Physics Engine"]
+tags: ["Unity" , "Game Programming"]
 draft: false
 ---
 

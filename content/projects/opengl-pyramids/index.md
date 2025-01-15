@@ -5,7 +5,7 @@ summary: "Watch thousands of pyramids bounce around in a cube. Made entirely wit
 date: 2023-03-09T12:00:00-06:00
 showReadingTime: false
 showWordCount: false
-tags: ["Graphics Programming", "Engine Programming", "C++"]
+tags: ["Graphics"]
 draft: false
 ---
 

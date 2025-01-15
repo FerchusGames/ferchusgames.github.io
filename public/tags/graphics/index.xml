@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphics on Ferchus</title>
+    <link>https://www.ferchus.com/tags/graphics/</link>
+    <description>Recent content in Graphics on Ferchus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ferchus</copyright>
+    <lastBuildDate>Sun, 14 May 2023 12:00:00 -0600</lastBuildDate><atom:link href="https://www.ferchus.com/tags/graphics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity Shader Showcase</title>
+      <link>https://www.ferchus.com/projects/unity-shader-showcase/</link>
+      <pubDate>Sun, 14 May 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/unity-shader-showcase/</guid>
+      <description>An interactive showcase of Unity shaders made in Shader Graph.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/unity-shader-showcase/featured.png" />
+    </item>
+    
+    <item>
+      <title>OpenGL Pyramids</title>
+      <link>https://www.ferchus.com/projects/opengl-pyramids/</link>
+      <pubDate>Thu, 09 Mar 2023 12:00:00 -0600</pubDate>
+      
+      <guid>https://www.ferchus.com/projects/opengl-pyramids/</guid>
+      <description>Watch thousands of pyramids bounce around in a cube. Made entirely with OpenGL in C++.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.ferchus.com/projects/opengl-pyramids/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
